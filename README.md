@@ -1,3 +1,5 @@
+# DEPRECATED. Moved to https://registry.terraform.io/modules/terraform-iaac/external-dns/kubernetes/latest
+
 # Terraform module for deploy K8S External DNS
 
 ##Cloud Requirements: 
